@@ -4,6 +4,7 @@ int main()
     // motor
     // test\
     // test 2
+    // motor 2
 }
 
 int drive(int speed)
